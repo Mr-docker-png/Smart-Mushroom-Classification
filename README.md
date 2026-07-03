@@ -118,6 +118,7 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author 
+  Jaskaran Singh
 
-Kamal
+"This application is designed to demonstrate the complete machine learning workflow using the UCI Mushroom dataset. Because the dataset contains expert-level botanical features, the interface reflects those attributes and is intended for educational purposes rather than real-world mushroom identification."
